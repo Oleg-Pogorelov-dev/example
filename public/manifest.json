@@ -1,0 +1,14 @@
+{
+  "name": "\u0415\u041c\u0418\u0410\u0421",
+  "short_name": "\u0415\u041c\u0418\u0410\u0421",
+  "icons": [
+    {
+      "src": "google-touch-icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#287aa3",
+  "background_color": "#287aa3"
+}
